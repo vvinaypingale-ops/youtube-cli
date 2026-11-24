@@ -1,0 +1,15 @@
+/__pycache__
+/dist
+/build
+.env
+.youtube_token.json
+debug.log
+youtubeCli.spec
+/Scripts/__pycache__
+.cache
+youtube-cli.spec
+/out
+.youtube_history
+logo.ico
+*.db
+*.pyc
